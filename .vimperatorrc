@@ -1,0 +1,14 @@
+" 1.2 (created: 2008/08/16 18:51:52)
+" Mappings
+map <S-Right> gt
+map <S-Left> gT
+map <C-Left> <C-i> 
+map <C-Right> <C-o> 
+" Options
+set guioptions=mT
+
+" Abbreviations
+
+source! ~/.vimperatorrc.local
+
+" vim: set ft=vimperator:
